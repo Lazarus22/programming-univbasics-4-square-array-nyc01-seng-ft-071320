@@ -10,11 +10,3 @@ def square_array(array)
   counter += 1
 end
 end
-
-
-counter = 0
-array = [1,2,3,4,5]
-
-
-  puts array[counter]
-  
