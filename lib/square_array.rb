@@ -8,4 +8,3 @@ array.length.times do |index|
 end
 puts new_array
 end
-
